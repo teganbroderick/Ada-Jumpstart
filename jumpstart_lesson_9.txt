@@ -1,0 +1,33 @@
+Script started on Sat Apr  6 19:33:39 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/Ada/Jumpstart/Jumpstart\ Lesson\  9.rb 
+Please enter a positive integer
+30
+Please enter a positive integer
+41
+Please enter a positive integer
+75
+Twenty added to the numbers you entered gives us 50, 61, and 95
+__________________________________________________________
+Welcome to my MadLib program. Please enter in some information below:
+weather (ending with y):
+sunny
+name:
+Tegan
+adjective:
+beautiful
+noun:
+hat
+exclamation:
+Whoa
+body part:
+foot
+food (plural):
+sandwiches
+number (larger than one)
+73
+HERE'S YOUR MADLIB.......
+It was a sunny day in San Francisco. Tegan was walking to the park when they came across a beautiful hat sitting on the sidewalk. "Whoa!", they exclaimed, "a real life hat". They went to pick it up and it bit them on the foot, causing them to drop their 73 sandwiches.
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr  6 19:34:35 2019

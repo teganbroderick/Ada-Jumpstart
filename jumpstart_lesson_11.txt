@@ -1,0 +1,87 @@
+Script started on Sat Apr  6 19:35:32 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/Ada/Jumpstart/Jumpstart\ Lesson\  11.rb 
+Numbers Problem Assignment version 1
+Let's play a numbers game. How many numbers would you like to enter?
+4
+Enter positive integer 1:
+23
+23 is not divisible by 3
+
+Enter positive integer 2:
+875
+875 is not divisible by 3
+
+Enter positive integer 3:
+34
+34 is not divisible by 3
+
+Enter positive integer 4:
+56332
+56332 is not divisible by 3
+
+_______________________________________________________________________________
+Numbers Problem Assignment version 2
+Let's play a numbers game. How many numbers would you like to enter?
+4 7
+Enter positive integer 1:
+43
+43 is not divisible by 3
+
+Enter positive integer 2:
+9
+9 is divisible by 3
+
+Enter positive integer 3:
+24
+24 is divisible by 3
+
+Enter positive integer 4:
+532
+532 is not divisible by 3
+
+Enter positive integer 5:
+89786
+89786 is not divisible by 3
+
+Enter positive integer 6:
+345
+345 is divisible by 3
+
+Enter positive integer 7:
+99
+99 is divisible by 3
+
+_______________________________________________________________________________
+Welcome to my election voting program.
+
+Election candidates are: Donald Duck, Minnie Mouse, Goofy
+vote #1
+donald duck
+vote #2
+minnie mouse
+vote #3
+goofy
+vote #4
+goofy
+vote #5
+goofy
+vote #6
+minnie mouse
+vote #7
+donald duck
+vote #8
+goofy
+vote #9
+goofy
+vote #10
+donald duck
+ELECTION RESULTS....
+Vote Summary:
+Goofy - 5 vote(s)
+Minnie Mouse - 2 vote(s)
+Donald Duck - 3 vote(s)
+WINNER: Goofy!
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr  6 19:37:03 2019

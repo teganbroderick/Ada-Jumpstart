@@ -1,0 +1,85 @@
+Script started on Sat Apr  6 19:42:15 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/Ada/Jumpstart/Jumpstart\ Lesson\  13.rb 
+Numbers Problem Assignment
+Please enter a number between 12 and 21, inclusive
+13
+Please enter a number between 12 and 21, inclusive
+21
+Please enter a number between 12 and 21, inclusive
+17
+Please enter a number between 12 and 21, inclusive
+19
+Please enter a number between 12 and 21, inclusive
+20
+For reference: Hash 1 {:random_numbers=>[21, 17, 19, 18, 21], :user_input=>[13, 21, 17, 19, 20]}
+For reference: Hash 2 {:random_numbers=>{21=>2, 17=>1, 19=>1, 18=>1}, :user_input=>{13=>1, 21=>1, 17=>1, 19=>1, 20=>1}}
+Give me a number you want information about
+19
+Only using the first hash:
+The number 19 shows up 1 time(s)in the randomly generated numbers
+The number 19 shows up 1 time(s) in the user input numbers
+Only using the second hash:
+The number 19 shows up 1 time(s) in the randomly generated numbers
+The number 19 shows up 1 time(s) in the user input numbers
+Give me a number you want information about
+21
+Only using the first hash:
+The number 21 shows up 2 time(s)in the randomly generated numbers
+The number 21 shows up 1 time(s) in the user input numbers
+Only using the second hash:
+The number 21 shows up 2 time(s) in the randomly generated numbers
+The number 21 shows up 1 time(s) in the user input numbers
+Give me a number you want information about
+15
+Only using the first hash:
+The number 15 does not show up in the randomly generated numbers
+The number 15 does not show up in the user input numbers
+Only using the second hash:
+The number 15 does not show up in the randomly generated numbers
+The number 15 does not show up in the user input numbers
+_______________________________________________________________________________
+Student Account Generator
+Please enter a first name and last name
+Tegan Broderick
+Please enter a first name and last name
+Amy Jones
+Please enter a first name and last name
+Rachel Penny
+Please enter a first name and last name
+Xavier Li
+Please enter a first name and last name
+Polly Gertrude
+Student Data: [{:name=>"TEGAN BRODERICK", :ID=>"345325", :email=>"TBRODERICK325@adadevelopersacademy.org"}, {:name=>"AMY JONES", :ID=>"248630", :email=>"AJONES630@adadevelopersacademy.org"}, {:name=>"RACHEL PENNY", :ID=>"369846", :email=>"RPENNY846@adadevelopersacademy.org"}, {:name=>"XAVIER LI", :ID=>"938123", :email=>"XLI123@adadevelopersacademy.org"}, {:name=>"POLLY GERTRUDE", :ID=>"495511", :email=>"PGERTRUDE511@adadevelopersacademy.org"}]
+_______________________________________________________________________________
+Walkathon assignment
+Welcome to Tegan's Walk-A-Thon Tracker
+Our goal is to raise money!
+Enter the earning goal for this event
+500
+Enter the amount earned per lap (per person)
+25
+Please enter the number of laps completed by each person.
+Walker # 1
+5
+Earned $125.0
+Walker # 2
+8
+Earned $200.0
+Walker # 3
+2
+Earned $50.0
+Walker # 4
+3
+Earned $75.0
+Walker # 5
+9
+Earned $225.0
+
+========================================
+Highest earning walker: # 5
+Total amount earned: $675.0
+Goal Met? YES :-)
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr  6 19:44:15 2019

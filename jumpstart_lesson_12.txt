@@ -1,0 +1,56 @@
+Script started on Sat Apr  6 19:38:24 2019
+[?1034hbash-3.2$ ruby /Users/teganbroderick/Documents/Ada/Jumpstart/Jumpstart\ Lesson\  12.rb 
+Numbers Problem Assignment
+How many numbers do you want to enter?
+6
+input a positive integer value
+4
+input a positive integer value
+7
+input a positive integer value
+5
+input a positive integer value
+2
+input a positive integer value
+3
+input a positive integer value
+4
+Comparing to the last value entered, 4, here are the observations:
+
+4
+the value at index 0, 4, is equal to the value at the last index, 4.
+7
+the value at index 1, 7, is greater than the value at the last index, 4.
+5
+the value at index 2, 5, is greater than the value at the last index, 4.
+2
+the value at index 3, 2, is less than the value at the last index, 4.
+3
+the value at index 4, 3, is less than the value at the last index, 4.
+4
+that the value at index 5, 4, is equal to the value at the last index, 4.
+The minimum value in the array is 2
+The maximum value in the array is 7
+The average of all the values in the array is 4
+_______________________________________________________________________________
+Student Account Generator
+Please enter a first name and last name
+Tegan Broderick
+Please enter a first name and last name
+Ben Jones
+Please enter a first name and last name
+Alfred Turnbull
+Please enter a first name and last name
+Ronald French
+Please enter a first name and last name
+Ashley Barthe
+Email List: ["TBRODERICK523@adadevelopersacademy.org", "BJONES521@adadevelopersacademy.org", "ATURNBULL962@adadevelopersacademy.org", "RFRENCH009@adadevelopersacademy.org", "ABARTHE492@adadevelopersacademy.org"]
+TEGAN  BRODERICK 629523 TBRODERICK523@adadevelopersacademy.org
+BEN  JONES 559521 BJONES521@adadevelopersacademy.org
+ALFRED  TURNBULL 224962 ATURNBULL962@adadevelopersacademy.org
+RONALD  FRENCH 838009 RFRENCH009@adadevelopersacademy.org
+ASHLEY  BARTHE 392492 ABARTHE492@adadevelopersacademy.org
+bash-3.2$ exit
+exit
+
+Script done on Sat Apr  6 19:40:40 2019
